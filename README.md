@@ -10,3 +10,7 @@ The slope of our linear model is definitely not zero because our p-value: 5.35e-
 
 With a Multiple R-squared of 0.7149 you can gather that these 5 variables have a positive corralation to MPG.
 
+
+## Summary Statistics on Suspension Coils
+
+## T-Tests on Suspension Coils
