@@ -29,5 +29,6 @@ Lot2 is a litte less than Lot1.
 
 While Lot3 is by far the lowest PSI of the 3 and farthest from the population mean at 1496.14.
 
+![image](https://user-images.githubusercontent.com/108240844/196800861-1eb853c6-435e-42bb-84db-8613b165a592.png)
 
 
