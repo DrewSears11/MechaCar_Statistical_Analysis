@@ -43,6 +43,9 @@ While Lot3 is by far the lowest PSI of the 3 and farthest from the population me
 
 ## Study Design: MechaCar vs Competition.
 
+With rising gas prices, a good test for our MechaCar vs the competition would be MPG.  With the average MPG roughly 24 MPG per car, lets set our altenative hypothesis that the mean MPG from our 40 Mechacar vehicles from the Mecha_Car.csv will be greater than 24.  This would be a good indicator and selling point to purchaes our vehicles.  As we can see from the means table we created below, the average MPG for the vehicles is well over 45.  In order to run a t-test, we would need the actual data from a competing company.
+
+![image](https://user-images.githubusercontent.com/108240844/196992223-d58ced1f-0e8d-43d9-9330-ff0ac216b35c.png)
 
 
 
