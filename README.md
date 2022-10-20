@@ -13,6 +13,16 @@ With a Multiple R-squared of 0.7149 you can gather that these 5 variables have a
 
 ## Summary Statistics on Suspension Coils
 
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch, as you can see from the chart table, the variancePSI of all the lots is 62.3, which falls does not exceed the threshold.
+
+![image](https://user-images.githubusercontent.com/108240844/196979150-5c8dd862-b6dc-40ca-a5c0-8fafdfe8209e.png)
+
+However, if we looked it up by the three manufacturing lots we have, we can see that manufactuing lot 3 exceeds this threshold.  While lots 1 and 2 are safely below it.
+
+![image](https://user-images.githubusercontent.com/108240844/196979044-78914393-3565-4251-a667-ca7a3fca1c56.png)
+
+
+
 ## T-Tests on Suspension Coils
 
 We can see from the screen below that the true mean suspension coil is not equal to the population mean of 1,500 pounds per square inch.  The mean of X is 1498.78 which is well over a full PSI below the population mean.
